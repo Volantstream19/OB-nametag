@@ -31,7 +31,6 @@ Additional considerations:
 input
 button
 h1 for hello
-section as nametag container
 div for name display
 div for bottom section
 
